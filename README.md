@@ -25,4 +25,4 @@ Here is the presentation schedule for the semester:
 |  15  | December 26th  | Review                    |             |
 
 Footnote Explanation:  
-1 - This paper will not be included in the final exam.
+1 - This paper will not be included in the final exam (but it is included in the midterm).
